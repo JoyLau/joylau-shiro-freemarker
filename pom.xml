@@ -33,10 +33,10 @@
 
     <groupId>cn.joylau.code</groupId>
     <artifactId>joylau-shiro-freemarker</artifactId>
-    <version>1.1.RELEASE</version>
+    <version>1.1.1.RELEASE</version>
 	<packaging>jar</packaging>
 	
-	<name>joylau-shiro-freemark</name>
+	<name>joylau-shiro-freemarker</name>
     <description>Some tags for shiro-freemarker</description>
     <url>http://code.joylau.cn</url>
 	
